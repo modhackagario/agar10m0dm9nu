@@ -1,0 +1,16 @@
+Package: com.shiarahmed.agario
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed
+Depends: mobilesubstrate
+Filename: ./debs/com.shiarahmed.agario_1.2_iphoneos-arm.deb
+Size: 726542
+MD5sum: d823b124de928e9476c30b0fb8dcfa67
+SHA1: f2000cbb61fce092e8832db95e5139ac93301bc5
+SHA256: b97ec6ea94c2d293a382ce5bc629333bea88162200d39ed40946b150912e8d9c
+Section: Tweaks
+Description: Agar.io Mod Menu by Shiar Ahmed!
+Author: Shiar Ahmed
+Homepage: https://agariomodmenu.github.io/Hack
+Name: Agar.io Mod Menu
+
